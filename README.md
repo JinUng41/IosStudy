@@ -7,7 +7,7 @@
 Part 2
 
 <hr>
-<h2><a href="https://github.com/JinUng41/IosStudy/blob/master/Part%203%20iOS%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EB%B3%B8.md">Part 3</a></h2>
+<h2>Part 3</h2>
 
 <a href="https://github.com/JinUng41/IosStudy/issues/1">개발하면서 준비해야할 것</a>
 
