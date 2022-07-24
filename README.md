@@ -8,4 +8,4 @@ Part 2
 
 <hr>
 
-Part 3
+[Part 3](https://github.com/JinUng41/IosStudy/blob/master/Part%203%20iOS%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EB%B3%B8.md)
