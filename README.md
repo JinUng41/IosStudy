@@ -30,3 +30,5 @@
 <br>
 
 <a href="https://github.com/JinUng41/IosStudy/issues/8">프로젝트 : 심볼롤러</a>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/9">프로젝트 : 심플웨더</a>
