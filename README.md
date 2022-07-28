@@ -39,3 +39,7 @@
 
 <br>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/11">프로젝트 : 주식리스트</a>
+
+<br>
+
