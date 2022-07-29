@@ -41,5 +41,7 @@
 
 <a href="https://github.com/JinUng41/IosStudy/issues/11">프로젝트 : 주식리스트</a>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/12">프로젝트 : 채팅리스트</a>
+
 <br>
 
