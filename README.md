@@ -52,5 +52,7 @@
 
 <a href="https://github.com/JinUng41/IosStudy/issues/12">프로젝트 : 채팅리스트</a>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/13">프로젝트 : 애플프레임워크 그리드 뷰</a>
+
 <br>
 
