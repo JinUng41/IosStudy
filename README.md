@@ -44,7 +44,7 @@
 
 <h3>03. List and Grid</h3>
 
-<a href="https://github.com/JinUng41/IosStudy/issues/10">컬렉션뷰</a>
+<a href="https://github.com/JinUng41/IosStudy/issues/10">리스트 및 그리드 ( 컬렉션뷰 )</a>
 
 <br>
 
@@ -73,6 +73,14 @@
 <br>
 
 <h3>06. List and Grid (advanced)</h3>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/17">리스트 및 그리드 그리는 법, 더 나아가기</a>
+
+<br>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/18">프로젝트 : 애플프레임워크 (개선)</a>
+
+<br>
 
 
 
