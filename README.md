@@ -80,9 +80,7 @@
 
 <a href="https://github.com/JinUng41/IosStudy/issues/18">프로젝트 : 애플프레임워크 (개선)</a>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/19">프로젝트 : 명상컨텐츠리스트</a>
+
 <br>
-
-
-
-
 
