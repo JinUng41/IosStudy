@@ -82,5 +82,11 @@
 
 <a href="https://github.com/JinUng41/IosStudy/issues/19">프로젝트 : 명상컨텐츠리스트</a>
 
+<a href ="https://github.com/JinUng41/IosStudy/issues/20">프로젝트 : 스포티파이 구매뷰</a>
+
 <br>
+
+<h3>07. Navigation and Modal</h3>
+
+
 
