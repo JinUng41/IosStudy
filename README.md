@@ -68,6 +68,12 @@
 
 <h3>05. Paging View</h3>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/16">프로젝트 : 나이키 온보딩</a>
+
+<br>
+
+<h3>06. List and Grid (advanced)</h3>
+
 
 
 
