@@ -86,7 +86,8 @@
 
 <br>
 
-<h3><a href="https://github.com/JinUng41/IosStudy/issues/23">HeadSpaceFocus_NAV</a></h3>
+<h3>07. Navigation and Modal
+</h3>
 
 <a href="https://github.com/JinUng41/IosStudy/issues/21">네비게이션과 모달</a>
 
