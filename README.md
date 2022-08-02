@@ -86,7 +86,7 @@
 
 <br>
 
-<h3>07. Navigation and Modal</h3>
+<h3><a href="https://github.com/JinUng41/IosStudy/issues/23">HeadSpaceFocus_NAV</a></h3>
 
 <a href="https://github.com/JinUng41/IosStudy/issues/21">네비게이션과 모달</a>
 
@@ -94,5 +94,9 @@
 
 <a href="https://github.com/JinUng41/IosStudy/issues/22">프로젝트 : 애플프레임워크 (모달)</a>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/23">프로젝트 : 명상컨텐츠리스트 (네비게이션)</a>
 
+<hr>
+
+<h2>Part 4</h2>
 
