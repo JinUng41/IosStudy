@@ -107,7 +107,7 @@
 
 <br>
 
-<a href="https://github.com/JinUng41/IosStudy/issues/26">Combine 실습 - 1, Pub & Sub</a>
+<a href="https://github.com/JinUng41/IosStudy/issues/26">Combine 실습 - 1, Publisher & Subscriber</a>
 
 <a href="https://github.com/JinUng41/IosStudy/issues/27">Combine 실습 - 2, Subject</a>
 
@@ -129,5 +129,19 @@
 
 <h2>Part 5</h2>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/34">네트워크 (HTTP)</a>
 
+<a href="https://github.com/JinUng41/IosStudy/issues/35">네트워크 in iOS</a>
+
+<br>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/36">네트워크 실습 - 1, URLSession 만들기</a>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/37">네트워크 실습 - 2, Data decoding</a>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/38">네트워크 실습 - 3, Fetch Method</a>
+
+<a href="https://github.com/JinUng41/IosStudy/issues/39">네트워크 실습 - 4, Using Combine</a>
+
+<br>
 
